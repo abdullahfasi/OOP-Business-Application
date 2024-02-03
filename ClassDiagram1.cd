@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="final.BL.admin">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="final.BL.material">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAAAAAAAAAAAAAAAAAAQABAQEEAAEBUEAAAA=</HashCode>
+      <FileName>BL\material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="final.BL.person">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEABAAAAAhAEAAABBQAAAAEAAAiAAAAwgAABQA=</HashCode>
+      <FileName>BL\person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="final.BL.property">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAQAAAEBEAAAAAAAAAAAAAQgAAQhAAAEAAA=</HashCode>
+      <FileName>BL\property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="final.BL.user">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAQARAAEBABAQAAAAAAAAgAAgAAAAAAQA=</HashCode>
+      <FileName>BL\user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="final.DL.usercrud">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAQAABA=</HashCode>
+      <FileName>DL\usercrud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
